@@ -1,0 +1,176 @@
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\appsettings.Development.json
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\appsettings.json
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\TaneoJezzarLexusL.staticwebassets.runtime.json
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\TaneoJezzarLexusL.staticwebassets.endpoints.json
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\TaneoJezzarLexusL.exe
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\TaneoJezzarLexusL.deps.json
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\TaneoJezzarLexusL.runtimeconfig.json
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\TaneoJezzarLexusL.dll
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\TaneoJezzarLexusL.pdb
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\EmbeddedAttribute.cs
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\ValidatableTypeAttribute.cs
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\rpswa.dswa.cache.json
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.AssemblyInfoInputs.cache
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.AssemblyInfo.cs
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.csproj.CoreCompileInputs.cache
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.sourcelink.json
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\rjimswa.dswa.cache.json
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\scopedcss\Components\Pages\Profile.razor.rz.scp.css
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\scopedcss\bundle\TaneoJezzarLexusL.styles.css
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\scopedcss\projectbundle\TaneoJezzarLexusL.bundle.scp.css
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\xvcas73aeg-{0}-khy4lop6wu-khy4lop6wu.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\l6tn0l75v4-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\egylccgfl1-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\srlxlb3tmv-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\gz7tmgluh0-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\o7kjw2gt4i-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\d456sa7stp-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\hreaxuh1w0-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\qoy7un5tpa-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\ugyepegxxa-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\twopaebr0n-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\e1o4qn74a3-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\82hhn0d4xp-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\ugo2pqr045-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\c88jbjqhla-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\rxje4lew8u-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\12aj95yn4e-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\3uxarfgrm9-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\1303qusawm-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\856jwtpt3a-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\yapv5ef914-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\j5yt54gwtq-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\veqx3jc88g-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\emrgfwuzv0-{0}-06098lyss8-06098lyss8.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\06n61ry0cy-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\o1pnx6y848-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\onve0x3wzp-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\fqpfjxuq40-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\twn85ff0tt-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\dvxjvmkbdl-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\grs955w28k-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\pr7k3ctdzu-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\dqmy0byiin-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\utv51r8scg-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\ac71rk01eu-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\wmfoh36rv2-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\srdao0x1h5-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\nv867mm2i9-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\7gockjmfv7-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\u5syykg4rv-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\ia17ud02f9-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\d6pm0twdi9-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\8wd31vovoa-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\bx6bxmcgif-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\kfq6xjo3b8-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\ew4ilconmy-{0}-abdmv1u4y3-abdmv1u4y3.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\syr93b9821-{0}-ax6tuj8tun-ax6tuj8tun.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\4e7tl3danp-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\yz2xgcxnrc-{0}-p30qdw5uro-p30qdw5uro.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\kn8179fv5e-{0}-p30qdw5uro-p30qdw5uro.gz
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\staticwebassets.build.json
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\staticwebassets.build.json.cache
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\staticwebassets.development.json
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\swae.build.ex.cache
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.dll
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\refint\TaneoJezzarLexusL.dll
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.pdb
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.genruntimeconfig.cache
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\ref\TaneoJezzarLexusL.dll
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\appsettings.Development.json
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\appsettings.json
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\TaneoJezzarLexusL.staticwebassets.runtime.json
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\TaneoJezzarLexusL.staticwebassets.endpoints.json
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\TaneoJezzarLexusL.exe
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\TaneoJezzarLexusL.deps.json
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\TaneoJezzarLexusL.runtimeconfig.json
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\TaneoJezzarLexusL.dll
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\bin\Release\net10.0\TaneoJezzarLexusL.pdb
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\EmbeddedAttribute.cs
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\ValidatableTypeAttribute.cs
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\rpswa.dswa.cache.json
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.AssemblyInfoInputs.cache
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.AssemblyInfo.cs
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.csproj.CoreCompileInputs.cache
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.sourcelink.json
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\rjimswa.dswa.cache.json
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\scopedcss\Components\Pages\Profile.razor.rz.scp.css
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\scopedcss\bundle\TaneoJezzarLexusL.styles.css
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\scopedcss\projectbundle\TaneoJezzarLexusL.bundle.scp.css
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\xvcas73aeg-{0}-khy4lop6wu-khy4lop6wu.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\l6tn0l75v4-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\egylccgfl1-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\srlxlb3tmv-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\gz7tmgluh0-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\o7kjw2gt4i-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\d456sa7stp-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\hreaxuh1w0-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\qoy7un5tpa-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\ugyepegxxa-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\twopaebr0n-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\e1o4qn74a3-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\82hhn0d4xp-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\ugo2pqr045-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\c88jbjqhla-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\rxje4lew8u-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\12aj95yn4e-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\3uxarfgrm9-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\1303qusawm-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\856jwtpt3a-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\yapv5ef914-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\j5yt54gwtq-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\veqx3jc88g-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\emrgfwuzv0-{0}-06098lyss8-06098lyss8.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\06n61ry0cy-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\o1pnx6y848-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\onve0x3wzp-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\fqpfjxuq40-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\twn85ff0tt-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\dvxjvmkbdl-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\grs955w28k-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\pr7k3ctdzu-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\dqmy0byiin-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\utv51r8scg-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\ac71rk01eu-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\wmfoh36rv2-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\srdao0x1h5-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\nv867mm2i9-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\7gockjmfv7-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\u5syykg4rv-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\ia17ud02f9-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\d6pm0twdi9-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\8wd31vovoa-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\bx6bxmcgif-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\kfq6xjo3b8-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\ew4ilconmy-{0}-abdmv1u4y3-abdmv1u4y3.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\syr93b9821-{0}-ax6tuj8tun-ax6tuj8tun.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\4e7tl3danp-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\yz2xgcxnrc-{0}-j19ug9ua1c-j19ug9ua1c.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\compressed\kn8179fv5e-{0}-j19ug9ua1c-j19ug9ua1c.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\staticwebassets.build.json
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\staticwebassets.build.json.cache
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\staticwebassets.development.json
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\swae.build.ex.cache
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.dll
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\refint\TaneoJezzarLexusL.dll
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.pdb
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\TaneoJezzarLexusL.genruntimeconfig.cache
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Release\net10.0\ref\TaneoJezzarLexusL.dll

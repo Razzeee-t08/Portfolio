@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMI\\OneDrive\\Documents\\BSIT 2A\\AP3\\Portfolio\\TaneoJezzarLexusL\\TaneoJezzarLexusL.csproj",
+      "projectUniqueName": "C:\\Users\\ADMI\\Documents\\Portfolio\\TaneoJezzarLexusL\\TaneoJezzarLexusL.csproj",
       "projectName": "TaneoJezzarLexusL",
-      "projectPath": "C:\\Users\\ADMI\\OneDrive\\Documents\\BSIT 2A\\AP3\\Portfolio\\TaneoJezzarLexusL\\TaneoJezzarLexusL.csproj",
+      "projectPath": "C:\\Users\\ADMI\\Documents\\Portfolio\\TaneoJezzarLexusL\\TaneoJezzarLexusL.csproj",
       "packagesPath": "C:\\Users\\ADMI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMI\\OneDrive\\Documents\\BSIT 2A\\AP3\\Portfolio\\TaneoJezzarLexusL\\obj\\",
+      "outputPath": "C:\\Users\\ADMI\\Documents\\Portfolio\\TaneoJezzarLexusL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMI\\AppData\\Roaming\\NuGet\\NuGet.Config"

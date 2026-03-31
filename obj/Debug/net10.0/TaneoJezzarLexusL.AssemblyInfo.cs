@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaneoJezzarLexusL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7303be3dde34c1f2ebb9e261fc1c4ba0ea92bb4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaneoJezzarLexusL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaneoJezzarLexusL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

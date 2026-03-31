@@ -1,0 +1,7 @@
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\publish\TaneoJezzarLexusL.exe
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\publish\appsettings.Development.json
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\publish\appsettings.json
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\publish\TaneoJezzarLexusL.dll
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\publish\TaneoJezzarLexusL.runtimeconfig.json
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\publish\TaneoJezzarLexusL.pdb
+C:\Users\ADMI\OneDrive\Documents\BSIT 2A\AP3\Portfolio\publish\TaneoJezzarLexusL.deps.json

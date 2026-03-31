@@ -1,0 +1,7 @@
+C:\Users\ADMI\Documents\Portfolio\publish\TaneoJezzarLexusL.exe
+C:\Users\ADMI\Documents\Portfolio\publish\appsettings.Development.json
+C:\Users\ADMI\Documents\Portfolio\publish\appsettings.json
+C:\Users\ADMI\Documents\Portfolio\publish\TaneoJezzarLexusL.dll
+C:\Users\ADMI\Documents\Portfolio\publish\TaneoJezzarLexusL.runtimeconfig.json
+C:\Users\ADMI\Documents\Portfolio\publish\TaneoJezzarLexusL.pdb
+C:\Users\ADMI\Documents\Portfolio\publish\TaneoJezzarLexusL.deps.json

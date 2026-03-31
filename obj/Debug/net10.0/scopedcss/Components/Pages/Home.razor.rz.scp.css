@@ -1,0 +1,126 @@
+/* THE ULTIMATE RESET */
+*[b-455mqaitpq], *[b-455mqaitpq]::before, *[b-455mqaitpq]::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html[b-455mqaitpq], body[b-455mqaitpq] {
+    width: 100%;
+    max-width: 100%;
+    background-color: #000;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    /* This is the final safety net for horizontal scrolling */
+    overflow-x: hidden; 
+    position: relative;
+}
+
+/* 1. HERO SECTION */
+.header[b-455mqaitpq] {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden; /* Clips anything that tries to poke out the side */
+}
+
+.profile-img[b-455mqaitpq] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(30%);
+    z-index: 1;
+}
+
+.header-overlay[b-455mqaitpq] {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    /* Use a percentage width to keep it away from screen edges */
+    width: 90%; 
+    margin: 0 auto;
+}
+
+.header-overlay h1[b-455mqaitpq] {
+    /* Fluid font that shrinks to fit the screen */
+    font-size: clamp(1.8rem, 6vw, 5rem); 
+    font-weight: 900;
+    text-transform: uppercase;
+    /* Reduced letter-spacing for better mobile fit */
+    letter-spacing: clamp(4px, 1.2vw, 12px);
+    margin: 0;
+    display: block;
+    line-height: 1.2;
+}
+
+.subtitle[b-455mqaitpq] {
+    display: block;
+    margin-top: 8px;
+    font-size: clamp(0.7rem, 1vw, 1.1rem);
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #666;
+}
+
+/* 2. CONTENT SECTIONS */
+.section[b-455mqaitpq] {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* Padding is now inside the width because of border-box */
+    padding: 0 8%; 
+}
+
+.bio[b-455mqaitpq] {
+    /* If the bio is too long, we allow it to wrap ONLY on mobile */
+    font-size: clamp(1rem, 2vw, 1.8rem); 
+    line-height: 1.6;
+    font-weight: 300;
+    color: #ccc;
+    text-align: center;
+    max-width: 900px;
+    /* Removing 'nowrap' here is safer for mobile, 
+       but we keep it tight for desktop */
+}
+
+/* 3. INFO GRID - The most common cause of side-scrolling */
+.info-container[b-455mqaitpq] {
+    width: 100%;
+    max-width: 800px;
+}
+
+.info-card[b-455mqaitpq] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    border-bottom: 1px solid #1a1a1a;
+    width: 100%;
+    /* Use flex-wrap so if the address is too long, it stacks vertically on phones 
+       instead of pushing the screen wide */
+    flex-wrap: wrap; 
+    gap: 10px;
+}
+
+.info-label[b-455mqaitpq] {
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    letter-spacing: 1px;
+    color: #444;
+}
+
+.info-value[b-455mqaitpq] {
+    font-size: clamp(0.9rem, 1.2vw, 1.1rem);
+    font-weight: 400;
+    color: #fff;
+    text-align: right;
+}

@@ -1,7 +1,54 @@
-﻿@page "/"
+﻿@page "/home"
 
 <PageTitle>Home</PageTitle>
 
-<h1>Hello, world!</h1>
+<div class="resume-container">
 
-Welcome to your new app.
+    <!-- HEADER -->
+    <div class="header">
+        <img src="profile.jpg" alt="Profile" class="profile-img" />
+        <div class="header-overlay">
+            <h1>@Name</h1>
+            <p class="subtitle">@Course Student</p>
+        </div>
+    </div>
+
+    <!-- PROFILE -->
+    <div class="section">
+        <h2>Profile</h2>
+        <p class="bio">@Bio</p>
+    </div>
+
+    <!-- PERSONAL INFO -->
+    <div class="section">
+        <h2>Personal Information</h2>
+
+        <div class="info-grid">
+
+            <div class="info-card">
+                <span class="info-label">Age</span>
+                <span class="info-value">@Age</span>
+            </div>
+
+            <div class="info-card">
+                <span class="info-label">Course</span>
+                <span class="info-value">@Course</span>
+            </div>
+
+            <div class="info-card full-width">
+                <span class="info-label">Address</span>
+                <span class="info-value">@Address</span>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+@code {
+    string Name = "Jezzar Lexus L. Taneo";
+    int Age = 19;
+    string Address = "Tapilon, Daanbantayan, Cebu";
+    string Course = "BSIT-2A";
+    string Bio = "Kaizen means continuous improvement. Memento mori, memento vivere.";
+}
