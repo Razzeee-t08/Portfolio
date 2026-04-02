@@ -24,34 +24,69 @@ main {
 }
 
 .top-row {
-    background-color: transparent;
+    background: transparent;  
+    backdrop-filter: none;     
+    -webkit-backdrop-filter: none;
+
+    border-bottom: none;      
+
     justify-content: flex-end;
     height: 3.5rem;
     display: flex;
     align-items: center;
+
+    padding-right: 1rem;
 }
 
-    .top-row ::deep a, .top-row ::deep .btn-link {
-        white-space: nowrap;
-        margin-left: 1.5rem;
-        text-decoration: none;
-    }
 
-    .top-row ::deep a:hover, .top-row ::deep .btn-link:hover {
-        text-decoration: underline;
-    }
+.top-row ::deep a,
+.top-row ::deep .btn-link {
+    color: rgba(255, 165, 0, 0.95);
 
-    .top-row ::deep a:first-child {
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
+    white-space: nowrap;
+    margin-left: 1.5rem;
+    text-decoration: none;
+
+    background: transparent;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+
+    padding: 6px 12px;
+    border-radius: 10px;
+
+    border: 1px solid rgba(255, 140, 0, 0.25);
+
+    transition: all 0.3s ease;
+}
+
+
+.top-row ::deep a:hover,
+.top-row ::deep .btn-link:hover {
+    color: #ffffff;
+
+    background: rgba(255, 140, 0, 0.35);
+    border: 1px solid rgba(255, 140, 0, 0.6);
+
+    box-shadow: 0 0 12px rgba(255, 140, 0, 0.6);
+
+    text-decoration: none;
+    transform: translateY(-2px);
+}
+
+
+.top-row ::deep a:first-child {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 
 @media (max-width: 640.98px) {
     .top-row {
         justify-content: space-between;
     }
 
-    .top-row ::deep a, .top-row ::deep .btn-link {
+    .top-row ::deep a,
+    .top-row ::deep .btn-link {
         margin-left: 0;
     }
 }
@@ -80,11 +115,13 @@ main {
         width: 0;
     }
 
-    .top-row, article {
+    .top-row,
+    article {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
     }
 }
+
 
 #blazor-error-ui {
     color-scheme: light only;
@@ -100,9 +137,9 @@ main {
     z-index: 1000;
 }
 
-    #blazor-error-ui .dismiss {
-        cursor: pointer;
-        position: absolute;
-        right: 0.75rem;
-        top: 0.5rem;
-    }
+#blazor-error-ui .dismiss {
+    cursor: pointer;
+    position: absolute;
+    right: 0.75rem;
+    top: 0.5rem;
+}

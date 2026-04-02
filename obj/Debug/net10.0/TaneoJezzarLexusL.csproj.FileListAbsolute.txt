@@ -111,7 +111,6 @@ C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\scopedcss\
 C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
 C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
-C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\scopedcss\Components\Pages\Profile.razor.rz.scp.css
 C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\scopedcss\bundle\TaneoJezzarLexusL.styles.css
 C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\scopedcss\projectbundle\TaneoJezzarLexusL.bundle.scp.css
 C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\compressed\xvcas73aeg-{0}-khy4lop6wu-khy4lop6wu.gz
@@ -172,5 +171,7 @@ C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\refint\Tan
 C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\TaneoJezzarLexusL.pdb
 C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\TaneoJezzarLexusL.genruntimeconfig.cache
 C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\ref\TaneoJezzarLexusL.dll
-C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\compressed\yz2xgcxnrc-{0}-y89hdogfa9-y89hdogfa9.gz
-C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\compressed\kn8179fv5e-{0}-y89hdogfa9-y89hdogfa9.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\scopedcss\Components\Pages\Contact.razor.rz.scp.css
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\scopedcss\Components\Pages\About.razor.rz.scp.css
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\compressed\yz2xgcxnrc-{0}-e0ii91bfm6-e0ii91bfm6.gz
+C:\Users\ADMI\Documents\Portfolio\TaneoJezzarLexusL\obj\Debug\net10.0\compressed\kn8179fv5e-{0}-e0ii91bfm6-e0ii91bfm6.gz

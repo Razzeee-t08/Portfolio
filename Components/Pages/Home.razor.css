@@ -1,126 +1,192 @@
-/* THE ULTIMATE RESET */
-*, *::before, *::after {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-
-html, body {
-    width: 100%;
-    max-width: 100%;
-    background-color: #000;
-    color: #fff;
-    font-family: 'Inter', sans-serif;
-    /* This is the final safety net for horizontal scrolling */
-    overflow-x: hidden; 
-    position: relative;
-}
-
-/* 1. HERO SECTION */
-.header {
-    position: relative;
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden; /* Clips anything that tries to poke out the side */
-}
-
-.profile-img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    filter: brightness(30%);
-    z-index: 1;
-}
-
-.header-overlay {
-    position: relative;
-    z-index: 2;
-    text-align: center;
-    /* Use a percentage width to keep it away from screen edges */
-    width: 90%; 
-    margin: 0 auto;
-}
-
-.header-overlay h1 {
-    /* Fluid font that shrinks to fit the screen */
-    font-size: clamp(1.8rem, 6vw, 5rem); 
-    font-weight: 900;
-    text-transform: uppercase;
-    /* Reduced letter-spacing for better mobile fit */
-    letter-spacing: clamp(4px, 1.2vw, 12px);
-    margin: 0;
-    display: block;
-    line-height: 1.2;
-}
-
-.subtitle {
-    display: block;
-    margin-top: 8px;
-    font-size: clamp(0.7rem, 1vw, 1.1rem);
-    letter-spacing: 4px;
-    text-transform: uppercase;
-    color: #666;
-}
-
-/* 2. CONTENT SECTIONS */
-.section {
-    width: 100%;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    /* Padding is now inside the width because of border-box */
-    padding: 0 8%; 
-}
-
-.bio {
-    /* If the bio is too long, we allow it to wrap ONLY on mobile */
-    font-size: clamp(1rem, 2vw, 1.8rem); 
-    line-height: 1.6;
-    font-weight: 300;
-    color: #ccc;
-    text-align: center;
-    max-width: 900px;
-    /* Removing 'nowrap' here is safer for mobile, 
-       but we keep it tight for desktop */
-}
-
-/* 3. INFO GRID - The most common cause of side-scrolling */
-.info-container {
-    width: 100%;
-    max-width: 800px;
-}
-
-.info-card {
+/* ===== NAVBAR ===== */
+.navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 0;
-    border-bottom: 1px solid #1a1a1a;
-    width: 100%;
-    /* Use flex-wrap so if the address is too long, it stacks vertically on phones 
-       instead of pushing the screen wide */
-    flex-wrap: wrap; 
-    gap: 10px;
+    padding: 22px 60px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
 }
 
-.info-label {
-    text-transform: uppercase;
-    font-size: 0.7rem;
+.logo {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
     letter-spacing: 1px;
-    color: #444;
+    color: #fff;
 }
 
-.info-value {
-    font-size: clamp(0.9rem, 1.2vw, 1.1rem);
-    font-weight: 400;
-    color: #fff;
-    text-align: right;
+.nav-links {
+    display: flex;
+    gap: 32px;
+    list-style: none;
+}
+
+.nav-links a {
+    color: rgba(255, 255, 255, 0.5);
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.2s;
+}
+
+.nav-links a:hover { color: #fff; }
+
+.cta-btn {
+    background: transparent;
+    border: 1px solid rgba(255, 120, 0, 0.5);
+    padding: 8px 18px;
+    border-radius: 6px;
+    color: #ff7800;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.cta-btn:hover { background: rgba(255, 120, 0, 0.1); }
+
+/* ===== HERO ===== */
+.hero {
+    height: calc(100vh - 65px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+/* ===== CONTENT ===== */
+.hero__content {
+    max-width: 640px;
+    animation: fadeIn 1.2s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* ===== IMAGE ===== */
+.hero__image {
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 16px;
+    border: 2px solid rgba(255, 120, 0, 0.7);
+    box-shadow: 0 0 0 6px rgba(255, 120, 0, 0.08),
+                0 0 30px rgba(255, 120, 0, 0.25);
+    transition: all 0.2s ease;
+}
+.hero__image:hover{
+    width: 180px;
+    height: 180px;
+    transform: translateY(-2px);
+    box-shadow: 0 0 0 6px hsla(28, 100%, 50%, 0.400),
+                0 0 30px rgba(255, 120, 0, 0.25);
+}
+
+/* ===== BADGE ===== */
+.hero__badge {
+    display: inline-block;
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding: 5px 14px;
+    border-radius: 4px;
+    background: rgba(255, 120, 0, 0.12);
+    color: #ff9a3c;
+    border: 1px solid rgba(255, 120, 0, 0.25);
+    margin-bottom: 18px;
+    transition: .2s ease-in;
+}
+
+.hero__badge:hover{
+    background: rgba(255, 120, 0, 0.1);
+    border-color: rgba(255, 120, 0, 0.3);
+    box-shadow: 0 6px 28px rgba(255, 120, 0, 0.25),
+                inset 0 1px 0 rgba(255, 255, 255, 0.15);
+}
+
+/* ===== TEXT ===== */
+.hero__title {
+    font-family: 'Playfair Display', serif;
+    font-size: 52px;
+    font-weight: 600;
+    margin: 0 0 12px;
+    color: #ffffff;
+    line-height: 1.15;
+    letter-spacing: -0.5px;
+    text-shadow: 0 0 40px rgba(0, 0, 0, 1),
+                 0 2px 8px rgba(0, 0, 0, 0.9);
+}
+
+.hero__divider {
+    width: 40px;
+    height: 2px;
+    background: linear-gradient(90deg, #ff7800, #ffaa00);
+    margin: 0 auto 18px;
+    border-radius: 2px;
+}
+
+.hero__description {
+    max-width: 460px;
+    margin: 0 auto 28px;
+    color: rgba(255, 255, 255, 0.85);
+    line-height: 1.75;
+    font-size: 15px;
+    text-shadow: 0 1px 12px rgba(0, 0, 0, 0.9);
+}
+
+/* ===== BUTTONS ===== */
+.hero__actions {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+
+.btn {
+    padding: 11px 24px;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.2s;
+    letter-spacing: 0.2px;
+}
+
+.btn--primary {
+    background: rgba(255, 120, 0, 0.2);
+    color: #ff9a3c;
+    border: 1px solid rgba(255, 120, 0, 0.4);
+    font-weight: 500;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 4px 20px rgba(255, 120, 0, 0.15),
+                inset 0 1px 0 rgba(255, 255, 255, 0.1);
+}
+
+.btn--primary:hover {
+    background: rgba(255, 120, 0, 0.35);
+    border-color: rgba(255, 120, 0, 0.7);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 28px rgba(255, 120, 0, 0.25),
+                inset 0 1px 0 rgba(255, 255, 255, 0.15);
+}
+
+.btn--secondary {
+    background: rgba(255, 255, 255, 0.05);
+    color: rgba(255, 255, 255, 0.75);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2),
+                inset 0 1px 0 rgba(255, 255, 255, 0.08);
+}
+
+.btn--secondary:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 120, 0, 0.4);
+    color: #ff9a3c;
+    transform: translateY(-2px);
+}
+
+/* ===== ANIMATION ===== */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(16px); }
+    to   { opacity: 1; transform: translateY(0); }
 }
